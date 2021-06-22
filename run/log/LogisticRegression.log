@@ -1,0 +1,10 @@
+2021-05-19 18:16:21,305 [INFO] - initialized app LogisticRegression bin ../run/app/bin/logreg with args b
+2021-05-19 18:16:21,305 [INFO] - Running ../run/app/bin/logreg b
+2021-05-19 18:16:21,333 [INFO] - pid 674
+2021-05-19 18:16:21,333 [INFO] - initialized app LogisticRegression bin ../run/app/bin/logreg with args b
+2021-05-19 18:16:21,333 [INFO] - Running ../run/app/bin/logreg b
+2021-05-19 18:16:21,353 [INFO] - pid 675
+2021-05-19 18:16:31,684 [ERROR] - handling ML process exited
+2021-05-19 18:16:31,684 [INFO] - checking LinearRegression
+2021-05-19 18:16:31,684 [ERROR] - The process died for LinearRegression, PID 673
+2021-05-19 18:16:31,684 [INFO] - checking LogisticRegression
